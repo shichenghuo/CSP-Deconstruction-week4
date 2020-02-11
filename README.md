@@ -2,7 +2,7 @@
 
 Deconstruction Practice
 
-#### Project 1: Computational Design - https://vimeo.com/55500779
+#### Project 1: Computational Design by Kate Revyakina - https://vimeo.com/55500779
 ---
 *Data* | *Render* | *Simulation* | *Event*
 ------------|------------|------------|------------
